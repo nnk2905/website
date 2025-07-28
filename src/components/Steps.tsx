@@ -29,8 +29,7 @@ const Steps = () => {
       number: '04',
       title: 'Enjoy Your Journey',
       description:
-        'Enjoy a hassle-free journey with NNN Kartikeya Travels and create unforgettable memories  Please note: Customers are required to submit a valid government-issued ID proof (such as Aadhaar, PAN card, etc.) for the duration of the journey. Additionally, a valid driving license must be presented before the trip begins.',
-    },
+        'Enjoy a hassle-free journey with NNN Kartikeya Travels and create unforgettable memories.'  },
   ];
 
   return (
