@@ -76,6 +76,20 @@ const WhyChooseUs = () => {
               whether it's for an urgent trip or a planned vacation through a simple call.
             </p>
           </div>
+           <div className="max-w-4xl mx-auto">
+            <h3 className="text-2xl font-bold mb-4">Easy and Hassle-Free Booking</h3>
+            <p className="text-lg opacity-90">
+            Please note: Customers are required to submit a valid government-issued ID proof (such as Aadhaar, PAN card, etc.) for the duration of the journey. Additionally, a valid driving license must be presented before the trip begins.',
+
+            </p>
+          </div>
+   <div className="max-w-4xl mx-auto">
+            <h3 className="text-2xl font-bold mb-4">Easy and Hassle-Free Booking</h3>
+            <p className="text-lg opacity-90">
+           Have your own car but need a driver?
+We provide experienced, professional drivers for your personal vehicles — anytime, anywhere.
+            </p>
+          </div>
         </div>
       </div>
     </section>
