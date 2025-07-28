@@ -102,7 +102,7 @@ const Contact = () => {
                 Contact Us
               </h3>
 
-              <form onSubmit={handleSubmit} className="space-y-6">
+              <form onSubmit={handleSubmit} className="space-y-6 opacity-90 leading-relaxed">
                 <div>
                   <label
                     htmlFor="name"
