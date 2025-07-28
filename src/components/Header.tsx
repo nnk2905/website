@@ -17,8 +17,12 @@ const Header = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-2">
-            <div className="w-10 h-10 bg-gradient-to-r from-emerald-600 to-teal-500 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-lg">N</span>
+            <div className="w-10 h-10 rounded-lg flex items-center justify-center">
+            <img
+                src="https://scontent.fhyd1-6.fna.fbcdn.net/v/t39.30808-6/482016797_122101414694797355_1741775693050779365_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=MrFpOHiTj9QQ7kNvwFNLTqQ&_nc_oc=AdkpaO0OCQRGcA21_7XCADodqgXoU-d8DUJPc0ZGVixgVK1eR9JcDyJbplnE5J2gXJSw7noPY9YQdRIwro1LDEwj&_nc_zt=23&_nc_ht=scontent.fhyd1-6.fna&_nc_gid=XM5u_4HjzWsUgBIZtOUctg&oh=00_AfRCqpKDFZiXVn1t4f91t-n6S79FL7wCi4blTE0IqzdCjw&oe=688D4BEE"
+                height="20px"
+                width="70px"
+              />
             </div>
             <div>
               <h1 className="text-xl font-bold text-gray-900">NNN</h1>
