@@ -76,17 +76,37 @@ const WhyChooseUs = () => {
               whether it's for an urgent trip or a planned vacation through a simple call.
             </p>
           </div>
+          </div>
+                <div className="mt-16 bg-gradient-to-r from-emerald-700 to-teal-600 rounded-2xl p-8 text-white relative overflow-hidden">
+          <div className="absolute inset-0 opacity-10">
+            <img 
+              src="https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop" 
+              alt="Car interior" 
+              className="w-full h-full object-cover"
+            />
+          </div>
+
            <div className="max-w-4xl mx-auto">
-            <h3 className="text-2xl font-bold mb-4">Easy and Hassle-Free Booking</h3>
+            <h3 className="text-2xl font-bold mb-4">Please note: </h3>
             <p className="text-lg opacity-90">
-            Please note: Customers are required to submit a valid government-issued ID proof (such as Aadhaar, PAN card, etc.) for the duration of the journey. Additionally, a valid driving license must be presented before the trip begins.',
+            Customers are required to submit a valid government-issued ID proof (such as Aadhaar, PAN card, etc.) for the duration of the journey. Additionally, a valid driving license must be presented before the trip begins.',
 
             </p>
           </div>
+                  </div>
+                <div className="mt-16 bg-gradient-to-r from-emerald-700 to-teal-600 rounded-2xl p-8 text-white relative overflow-hidden">
+          <div className="absolute inset-0 opacity-10">
+            <img 
+              src="https://images.pexels.com/photos/1592384/pexels-photo-1592384.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop" 
+              alt="Car interior" 
+              className="w-full h-full object-cover"
+            />
+          </div>
+
    <div className="max-w-4xl mx-auto">
-            <h3 className="text-2xl font-bold mb-4">Easy and Hassle-Free Booking</h3>
+            <h3 className="text-2xl font-bold mb-4">Have your own car but need a driver?</h3>
             <p className="text-lg opacity-90">
-           Have your own car but need a driver?
+           
 We provide experienced, professional drivers for your personal vehicles — anytime, anywhere.
             </p>
           </div>
