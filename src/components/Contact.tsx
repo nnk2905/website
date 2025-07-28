@@ -118,7 +118,7 @@ const Contact = () => {
                     onChange={handleChange}
                     placeholder="Enter your name"
                     required
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent transition-colors"
+                    className="w-full opacity-90 leading-relaxed px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent transition-colors"
                   />
                 </div>
 
@@ -137,7 +137,7 @@ const Contact = () => {
                     onChange={handleChange}
                     placeholder="Enter your email"
                     required
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent transition-colors"
+                    className="w-full opacity-90 leading-relaxed px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent transition-colors"
                   />
                 </div>
 
@@ -156,7 +156,7 @@ const Contact = () => {
                     placeholder="Write your message"
                     rows={4}
                     required
-                    className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent transition-colors resize-none"
+                    className="w-full opacity-90 leading-relaxed px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-transparent transition-colors resize-none"
                   ></textarea>
                 </div>
 
