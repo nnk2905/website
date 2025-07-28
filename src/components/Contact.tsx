@@ -173,9 +173,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <div className="text-center mt-12 text-sm text-gray-500">
-          <p>© 2025 NNN Katikeya Travels. Available 24/7.</p>
-        </div>
+      
     </section>
   );
 };
