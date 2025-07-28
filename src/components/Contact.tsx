@@ -174,7 +174,7 @@ const Contact = () => {
       </div>
 
       <div className="text-center mt-12 text-sm text-gray-500">
-        <p>© 2025 NNN Kartikeya Travels. Available 24/7.</p>
+        <p>© 2023 NNN Kartikeya Travels. Available 24/7.</p>
       </div>
     </section>
   );
