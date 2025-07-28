@@ -40,7 +40,9 @@ const Hero = () => {
           <p className="text-xl md:text-2xl mb-8 opacity-90 leading-relaxed max-w-3xl mx-auto">
             Experience hassle-free travel with Kartikeya Travels, 24/7 Rental Cars. Whether you are planning a vacation or a business trip, we ensure a seamless and comfortable journey tailored to your needs.
           </p>
-          
+                    <p className="text-xl md:text-2xl mb-8 opacity-90 leading-relaxed max-w-3xl mx-auto">
+            ***We also provide professional drivers for your personal vehicles on an hourly basis.***
+          </p>
           <div className="mb-12">
             <h2 className="text-2xl md:text-3xl font-semibold mb-8 flex items-center justify-center space-x-4">
               <span>The</span>
