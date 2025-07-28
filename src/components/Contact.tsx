@@ -81,8 +81,14 @@ const Contact = () => {
                 <div className="flex items-center space-x-3">
                   <Phone className="w-6 h-6 text-emerald-300" />
                   <div>
-                    <p className="font-semibold">+91 7799118556</p>
-                    <p className="font-semibold">+91 9573978446</p>
+                    <p className="font-semibold">  <a
+  href="tel:+917799118556" // Replace with your actual phone number
+>
+  <span>+91 7799118556</span></p>
+                    <p className="font-semibold">  <a
+  href="tel:+919573978446" // Replace with your actual phone number
+>
+  <span>+91 9573978446</span></p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
