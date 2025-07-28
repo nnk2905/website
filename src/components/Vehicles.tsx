@@ -5,7 +5,7 @@ const Vehicles = () => {
   const vehicles = [
     {
       model: 'Ertiga VXI BA6 2024',
-      price: '₹3000',
+      price: '₹2500-₹3000',
       doors: '4 Doors',
       seats: '7 Seats',
       luggage: '4 Luggage Bags',
@@ -15,7 +15,7 @@ const Vehicles = () => {
     },
     {
       model: 'Maruti Suzuki Dzire 2024',
-      price: '₹2500',
+      price: '₹1600-₹2500',
       doors: '4 Doors',
       seats: '4 Seats',
       luggage: '3 Luggage Bags',
