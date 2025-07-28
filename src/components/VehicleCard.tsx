@@ -65,9 +65,13 @@ const VehicleCard: React.FC<VehicleCardProps> = ({
         </div>
         
         <button className="w-full bg-gradient-to-r from-emerald-600 to-teal-500 text-white py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-300 flex items-center justify-center space-x-2 group">
-          <span>Book Now</span>
-          <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-        </button>
+<a
+  href="tel:+7799118556" // Replace with your actual phone number
+  className="w-full bg-gradient-to-r from-emerald-600 to-teal-500 text-white py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-300 flex items-center justify-center space-x-2 group"
+>
+  <span>Book Now</span>
+  <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+</a>        </button>
       </div>
     </div>
   );
