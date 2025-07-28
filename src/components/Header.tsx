@@ -85,7 +85,6 @@ const Header = () => {
                   <Phone className="w-4 h-4" />
              <a
   href="tel:+917799118556" // Replace with your actual phone number
-  className="w-full bg-gradient-to-r from-emerald-600 to-teal-500 text-white py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-300 flex items-center justify-center space-x-2 group"
 >
   <span>7799118556</span>
 </a>
@@ -93,7 +92,6 @@ const Header = () => {
                <Phone className="w-4 h-4" />
                 <a
   href="tel:+919573978446" // Replace with your actual phone number
-  className="w-full bg-gradient-to-r from-emerald-600 to-teal-500 text-white py-3 rounded-lg font-semibold hover:shadow-lg transition-all duration-300 flex items-center justify-center space-x-2 group"
 >
   <span>9573978446</span>
 </a>
