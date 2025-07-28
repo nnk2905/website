@@ -81,10 +81,10 @@ const Contact = () => {
                 <div className="flex items-center space-x-3">
                   <Phone className="w-6 h-6 text-emerald-300" />
                   <div>
-                    <p className="font-semibold">
+                    <p className="font-semibold opacity-90 leading-relaxed">
                       <a href="tel:+917799118556">+91 7799118556</a>
                     </p>
-                    <p className="font-semibold">
+                    <p className="font-semibold opacity-90 leading-relaxed">
                       <a href="tel:+919573978446">+91 9573978446</a>
                     </p>
                   </div>
