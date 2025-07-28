@@ -78,19 +78,19 @@ const Contact = () => {
               </p>
 
               <div className="space-y-4">
-                <div className="flex items-center space-x-3">
-                  <Phone className="w-6 h-6 text-emerald-300" />
-                  <div>
-                    <p className="font-semibold">  <a
-  href="tel:+917799118556" // Replace with your actual phone number
->
-  <span>+91 7799118556</span></p>
-                    <p className="font-semibold">  <a
-  href="tel:+919573978446" // Replace with your actual phone number
->
-  <span>+91 9573978446</span></p>
-                  </div>
-                </div>
+  <div className="flex items-center space-x-3">
+    <Phone className="w-6 h-6 text-emerald-300" />
+    <div>
+      <p className="font-semibold">
+        <a href="tel:+917799118556">+91 7799118556</a>
+      </p>
+      <p className="font-semibold">
+        <a href="tel:+919573978446">+91 9573978446</a>
+      </p>
+    </div>
+  </div>
+</div>
+
                 <div className="flex items-center space-x-3">
                   <Mail className="w-6 h-6 text-emerald-300" />
                   <p className="font-semibold">nnnkartikeyatravels@gmail.com</p>
