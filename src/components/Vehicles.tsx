@@ -4,7 +4,7 @@ import VehicleCard from './VehicleCard';
 const Vehicles = () => {
   const vehicles = [
     {
-      model: 'Ertiga VXI BA6 2024',
+      model: 'Ertiga VXI BA6',
       price: '₹2500-₹3000',
       doors: '4 Doors',
       seats: '7 Seats',
@@ -14,7 +14,7 @@ const Vehicles = () => {
       image: 'https://imgd.aeplcdn.com/664x374/n/p0fs93a_1572127.jpg?q=80',
     },
     {
-      model: 'Maruti Suzuki Dzire 2024',
+      model: 'Maruti Suzuki Dzire',
       price: '₹1600-₹2500',
       doors: '4 Doors',
       seats: '4 Seats',
