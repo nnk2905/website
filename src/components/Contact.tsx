@@ -78,18 +78,17 @@ const Contact = () => {
               </p>
 
               <div className="space-y-4">
-  <div className="flex items-center space-x-3">
-    <Phone className="w-6 h-6 text-emerald-300" />
-    <div>
-      <p className="font-semibold">
-        <a href="tel:+917799118556">+91 7799118556</a>
-      </p>
-      <p className="font-semibold">
-        <a href="tel:+919573978446">+91 9573978446</a>
-      </p>
-    </div>
-  </div>
-</div>
+                <div className="flex items-center space-x-3">
+                  <Phone className="w-6 h-6 text-emerald-300" />
+                  <div>
+                    <p className="font-semibold">
+                      <a href="tel:+917799118556">+91 7799118556</a>
+                    </p>
+                    <p className="font-semibold">
+                      <a href="tel:+919573978446">+91 9573978446</a>
+                    </p>
+                  </div>
+                </div>
 
                 <div className="flex items-center space-x-3">
                   <Mail className="w-6 h-6 text-emerald-300" />
@@ -173,7 +172,10 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      
+
+      <div className="text-center mt-12 text-sm text-gray-500">
+        <p>© 2025 NNN Kartikeya Travels. Available 24/7.</p>
+      </div>
     </section>
   );
 };
